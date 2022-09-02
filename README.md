@@ -13,4 +13,6 @@ Firstly you need to download the SKLauncher, by pressing the first button. When 
 To swap the Original Minecraft launcher to SKLauncher you need to press the second button.
 After you do all of that you need to run or install a modpack, you login into it (with Microsoft Account or in Offline Mode).
 
+IF YOU WANT TO EXIT FROM THE APP, PLEASE PRESS ALT + F4
+
 I hope i helped someone, much love from Al3xutzu <3
