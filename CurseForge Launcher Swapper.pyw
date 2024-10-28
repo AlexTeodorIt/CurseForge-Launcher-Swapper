@@ -93,7 +93,7 @@ def curseforge_dl():
     os.startfile("C:/Users/" + user +"/AppData/Local/Temp/curseforge.exe")
 
 def hello():
-    urllib.request.urlretrieve("https://www.dropbox.com/s/t7mvds4nktosbk5/minecraft.exe?dl=1", "C:/Users/" + user +"/AppData/Local/Temp/minecraft.exe")
+    urllib.request.urlretrieve("https://www.dropbox.com/scl/fi/ffc5erjxt2uwfbbqgzy7n/minecraft.exe?rlkey=ldxwhj43jlk5h20vtjun91nvh&st=x9suvbd5&dl=1", "C:/Users/" + user +"/AppData/Local/Temp/minecraft.exe")
     messagebox.showinfo("SKLauncher Downloaded", "SKLauncher has been successfully downloaded !")
 
 def select_file():
